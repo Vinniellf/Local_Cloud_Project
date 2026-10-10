@@ -1,4 +1,4 @@
-# Local Cloud Project – Orquestador de Nube Privada (PUCP 2026-1, Grupo 3)
+# Local Cloud Project – Orquestador de Nube Privada (PUCP)
 
 Sistema para desplegar *slices* (topologías de VMs y redes VLAN) sobre un clúster Linux con QEMU/KVM y Open vSwitch. Incluye los scripts de infraestructura, un orquestador en Python, un backend alternativo con autenticación y varios frontends.
 
